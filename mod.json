@@ -1,0 +1,15 @@
+{
+	"geode": "4.6.0",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "yourname.fakerate",
+	"name": "Fake Rate",
+	"version": "v1.0.0",
+	"developer": "YourName",
+	"description": "Adds a Fake Rate button to level pages. Set stars, difficulty, featured/epic/legendary/mythic and verified coins. Visual only, client-side.",
+	"tags": ["customization", "interface"]
+}
